@@ -2,7 +2,8 @@
  * sleepingTA_DanielWaters_692.c
  *
  *  Created on: Mar 29, 2018
- *      Author: daniel
+ *      Author: Daniel Waters
+ *	CSUID : 692
  */
 
 #define MAX_SLEEP_TIME 3
